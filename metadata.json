@@ -1,0 +1,5 @@
+{
+  "name": "Regression Line Sign Reverser",
+  "description": "A web application that demonstrates how a single outlier point can dramatically influence and reverse the sign of a simple linear regression model's slope. Users can define model parameters, generate initial data, and see the effect of a calculated high-leverage point.",
+  "requestFramePermissions": []
+}
